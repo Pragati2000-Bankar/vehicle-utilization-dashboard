@@ -27,4 +27,4 @@
 - Utilization category classification
 
 ## Screenshot
-- ![Vehicle Utilization Dashboard](Vehicle Utilization Dashboard.png)
+- !(Vehicle Utilization Dashboard.png)
